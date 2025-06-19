@@ -10,12 +10,12 @@
 </div>
 
 <p align="center">
-  <a href="#🚀-sobre-o-projeto">Sobre</a> •
-  <a href="#✨-funcionalidades">Funcionalidades</a> •
-  <a href="#🛠️-tecnologias-e-padrões">Tecnologias</a> •
-  <a href="#🏛️-arquitetura">Arquitetura</a> •
-  <a href="#🏁-começando">Começando</a> •
-  <a href="#👨‍💻-autor">Autor</a>
+  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#🛠-tecnologias-e-padrões">Tecnologias</a> •
+  <a href="#🏛-arquitetura">Arquitetura</a> •
+  <a href="#-começando">Começando</a> •
+  <a href="#-autor">Autor</a>
 </p>
 
 ---
